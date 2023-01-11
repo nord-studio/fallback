@@ -1,2 +1,3 @@
-# fallback
-🍂 A fallback site for when nordstud.io is not available.
+# 🍂 Fallback
+
+The fallback website when [nordstud.io](https://nordstud.io) isn't available.
